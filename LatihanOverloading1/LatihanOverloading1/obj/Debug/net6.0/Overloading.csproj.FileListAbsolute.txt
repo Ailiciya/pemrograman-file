@@ -1,0 +1,15 @@
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\bin\Debug\net6.0\Overloading.exe
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\bin\Debug\net6.0\Overloading.deps.json
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\bin\Debug\net6.0\Overloading.runtimeconfig.json
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\bin\Debug\net6.0\Overloading.dll
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\bin\Debug\net6.0\Overloading.pdb
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\Overloading.csproj.AssemblyReference.cache
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\Overloading.AssemblyInfoInputs.cache
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\Overloading.AssemblyInfo.cs
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\Overloading.csproj.CoreCompileInputs.cache
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\Overloading.dll
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\refint\Overloading.dll
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\Overloading.pdb
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\Overloading.genruntimeconfig.cache
+D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\ref\Overloading.dll
