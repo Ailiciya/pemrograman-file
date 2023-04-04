@@ -1,0 +1,15 @@
+D:\code\UAS\ClassMember2\ClassMember2\bin\Debug\net6.0\ClassMember2.exe
+D:\code\UAS\ClassMember2\ClassMember2\bin\Debug\net6.0\ClassMember2.deps.json
+D:\code\UAS\ClassMember2\ClassMember2\bin\Debug\net6.0\ClassMember2.runtimeconfig.json
+D:\code\UAS\ClassMember2\ClassMember2\bin\Debug\net6.0\ClassMember2.dll
+D:\code\UAS\ClassMember2\ClassMember2\bin\Debug\net6.0\ClassMember2.pdb
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ClassMember2.csproj.AssemblyReference.cache
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ClassMember2.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ClassMember2.AssemblyInfoInputs.cache
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ClassMember2.AssemblyInfo.cs
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ClassMember2.csproj.CoreCompileInputs.cache
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ClassMember2.dll
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\refint\ClassMember2.dll
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ClassMember2.pdb
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ClassMember2.genruntimeconfig.cache
+D:\code\UAS\ClassMember2\ClassMember2\obj\Debug\net6.0\ref\ClassMember2.dll
