@@ -1,0 +1,15 @@
+D:\code\UAS\NonVoid\NonVoid\bin\Debug\net6.0\NonVoid.exe
+D:\code\UAS\NonVoid\NonVoid\bin\Debug\net6.0\NonVoid.deps.json
+D:\code\UAS\NonVoid\NonVoid\bin\Debug\net6.0\NonVoid.runtimeconfig.json
+D:\code\UAS\NonVoid\NonVoid\bin\Debug\net6.0\NonVoid.dll
+D:\code\UAS\NonVoid\NonVoid\bin\Debug\net6.0\NonVoid.pdb
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\NonVoid.csproj.AssemblyReference.cache
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\NonVoid.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\NonVoid.AssemblyInfoInputs.cache
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\NonVoid.AssemblyInfo.cs
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\NonVoid.csproj.CoreCompileInputs.cache
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\NonVoid.dll
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\refint\NonVoid.dll
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\NonVoid.pdb
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\NonVoid.genruntimeconfig.cache
+D:\code\UAS\NonVoid\NonVoid\obj\Debug\net6.0\ref\NonVoid.dll
