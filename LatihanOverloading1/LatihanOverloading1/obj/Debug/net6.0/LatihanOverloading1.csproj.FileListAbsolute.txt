@@ -1,5 +1,0 @@
-D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\LatihanOverloading1.csproj.AssemblyReference.cache
-D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\LatihanOverloading1.GeneratedMSBuildEditorConfig.editorconfig
-D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\LatihanOverloading1.AssemblyInfoInputs.cache
-D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\LatihanOverloading1.AssemblyInfo.cs
-D:\code\UAS\LatihanOverloading1\LatihanOverloading1\obj\Debug\net6.0\LatihanOverloading1.csproj.CoreCompileInputs.cache
