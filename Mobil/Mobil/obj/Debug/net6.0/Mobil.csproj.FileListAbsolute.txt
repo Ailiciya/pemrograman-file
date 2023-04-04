@@ -1,0 +1,15 @@
+D:\code\UAS\Mobil\Mobil\bin\Debug\net6.0\Mobil.exe
+D:\code\UAS\Mobil\Mobil\bin\Debug\net6.0\Mobil.deps.json
+D:\code\UAS\Mobil\Mobil\bin\Debug\net6.0\Mobil.runtimeconfig.json
+D:\code\UAS\Mobil\Mobil\bin\Debug\net6.0\Mobil.dll
+D:\code\UAS\Mobil\Mobil\bin\Debug\net6.0\Mobil.pdb
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\Mobil.csproj.AssemblyReference.cache
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\Mobil.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\Mobil.AssemblyInfoInputs.cache
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\Mobil.AssemblyInfo.cs
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\Mobil.csproj.CoreCompileInputs.cache
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\Mobil.dll
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\refint\Mobil.dll
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\Mobil.pdb
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\Mobil.genruntimeconfig.cache
+D:\code\UAS\Mobil\Mobil\obj\Debug\net6.0\ref\Mobil.dll
