@@ -1,0 +1,15 @@
+D:\code\UAS\Hewan\Hewan\bin\Debug\net6.0\Hewan.exe
+D:\code\UAS\Hewan\Hewan\bin\Debug\net6.0\Hewan.deps.json
+D:\code\UAS\Hewan\Hewan\bin\Debug\net6.0\Hewan.runtimeconfig.json
+D:\code\UAS\Hewan\Hewan\bin\Debug\net6.0\Hewan.dll
+D:\code\UAS\Hewan\Hewan\bin\Debug\net6.0\Hewan.pdb
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\Hewan.csproj.AssemblyReference.cache
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\Hewan.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\Hewan.AssemblyInfoInputs.cache
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\Hewan.AssemblyInfo.cs
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\Hewan.csproj.CoreCompileInputs.cache
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\Hewan.dll
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\refint\Hewan.dll
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\Hewan.pdb
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\Hewan.genruntimeconfig.cache
+D:\code\UAS\Hewan\Hewan\obj\Debug\net6.0\ref\Hewan.dll
