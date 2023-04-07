@@ -1,0 +1,15 @@
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ClassMember.csproj.AssemblyReference.cache
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ClassMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ClassMember.AssemblyInfoInputs.cache
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ClassMember.AssemblyInfo.cs
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ClassMember.csproj.CoreCompileInputs.cache
+D:\code\UAS\ClassMember\ClassMember\bin\Debug\net6.0\ClassMember.exe
+D:\code\UAS\ClassMember\ClassMember\bin\Debug\net6.0\ClassMember.deps.json
+D:\code\UAS\ClassMember\ClassMember\bin\Debug\net6.0\ClassMember.runtimeconfig.json
+D:\code\UAS\ClassMember\ClassMember\bin\Debug\net6.0\ClassMember.dll
+D:\code\UAS\ClassMember\ClassMember\bin\Debug\net6.0\ClassMember.pdb
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ClassMember.dll
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\refint\ClassMember.dll
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ClassMember.pdb
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ClassMember.genruntimeconfig.cache
+D:\code\UAS\ClassMember\ClassMember\obj\Debug\net6.0\ref\ClassMember.dll

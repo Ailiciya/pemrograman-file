@@ -1,0 +1,15 @@
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.AssemblyReference.cache
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfoInputs.cache
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfo.cs
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.CoreCompileInputs.cache
+D:\code\UAS\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.exe
+D:\code\UAS\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.deps.json
+D:\code\UAS\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.runtimeconfig.json
+D:\code\UAS\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.dll
+D:\code\UAS\Kalkulator\Kalkulator\bin\Debug\net6.0\Kalkulator.pdb
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.dll
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\refint\Kalkulator.dll
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.pdb
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\Kalkulator.genruntimeconfig.cache
+D:\code\UAS\Kalkulator\Kalkulator\obj\Debug\net6.0\ref\Kalkulator.dll

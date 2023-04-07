@@ -1,0 +1,15 @@
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ClassMobil.csproj.AssemblyReference.cache
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ClassMobil.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ClassMobil.AssemblyInfoInputs.cache
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ClassMobil.AssemblyInfo.cs
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ClassMobil.csproj.CoreCompileInputs.cache
+D:\code\UAS\ClassMobil\ClassMobil\bin\Debug\net6.0\ClassMobil.exe
+D:\code\UAS\ClassMobil\ClassMobil\bin\Debug\net6.0\ClassMobil.deps.json
+D:\code\UAS\ClassMobil\ClassMobil\bin\Debug\net6.0\ClassMobil.runtimeconfig.json
+D:\code\UAS\ClassMobil\ClassMobil\bin\Debug\net6.0\ClassMobil.dll
+D:\code\UAS\ClassMobil\ClassMobil\bin\Debug\net6.0\ClassMobil.pdb
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ClassMobil.dll
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\refint\ClassMobil.dll
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ClassMobil.pdb
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ClassMobil.genruntimeconfig.cache
+D:\code\UAS\ClassMobil\ClassMobil\obj\Debug\net6.0\ref\ClassMobil.dll
