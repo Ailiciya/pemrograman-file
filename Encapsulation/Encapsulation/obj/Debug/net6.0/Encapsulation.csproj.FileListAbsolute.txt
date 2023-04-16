@@ -1,0 +1,15 @@
+D:\code\Kuliah\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+D:\code\Kuliah\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+D:\code\Kuliah\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+D:\code\Kuliah\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+D:\code\Kuliah\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+D:\code\Kuliah\Encapsulation\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
