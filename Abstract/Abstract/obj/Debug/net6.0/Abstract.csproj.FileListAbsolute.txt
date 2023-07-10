@@ -1,0 +1,15 @@
+D:\code\Kuliah\Abstract\Abstract\bin\Debug\net6.0\Abstract.exe
+D:\code\Kuliah\Abstract\Abstract\bin\Debug\net6.0\Abstract.deps.json
+D:\code\Kuliah\Abstract\Abstract\bin\Debug\net6.0\Abstract.runtimeconfig.json
+D:\code\Kuliah\Abstract\Abstract\bin\Debug\net6.0\Abstract.dll
+D:\code\Kuliah\Abstract\Abstract\bin\Debug\net6.0\Abstract.pdb
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\Abstract.csproj.AssemblyReference.cache
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfoInputs.cache
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfo.cs
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\Abstract.csproj.CoreCompileInputs.cache
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\Abstract.dll
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\refint\Abstract.dll
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\Abstract.pdb
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\Abstract.genruntimeconfig.cache
+D:\code\Kuliah\Abstract\Abstract\obj\Debug\net6.0\ref\Abstract.dll
